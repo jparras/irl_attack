@@ -1,0 +1,13 @@
+numpy==1.19.2
+baselines==0.1.5
+cloudpickle==1.6.0
+dill==0.3.3
+gym==0.18.3
+joblib==1.0.1
+matplotlib==3.4.2
+mpi4py==3.0.3
+pandas==1.2.4
+scipy==1.6.3
+statsmodels==0.12.2
+tensorflow==2.5.0
+tikzplotlib==0.9.8
